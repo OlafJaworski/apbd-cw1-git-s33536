@@ -4,4 +4,4 @@
 Console.WriteLine("Hello, Second branch2!");
 Console.WriteLine("Hello, Third branch!");
 
-Console.WriteLine("Hello, ... rebase1!");
+Console.WriteLine("Hello, cos rebase1!");
